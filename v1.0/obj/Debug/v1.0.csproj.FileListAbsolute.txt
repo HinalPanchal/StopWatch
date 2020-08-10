@@ -1,0 +1,10 @@
+C:\Users\mukesh\source\repos\v1.0\v1.0\bin\Debug\v1.0.exe.config
+C:\Users\mukesh\source\repos\v1.0\v1.0\bin\Debug\v1.0.exe
+C:\Users\mukesh\source\repos\v1.0\v1.0\bin\Debug\v1.0.pdb
+C:\Users\mukesh\source\repos\v1.0\v1.0\obj\Debug\v1.0.csprojAssemblyReference.cache
+C:\Users\mukesh\source\repos\v1.0\v1.0\obj\Debug\v1._0.Form1.resources
+C:\Users\mukesh\source\repos\v1.0\v1.0\obj\Debug\v1._0.Properties.Resources.resources
+C:\Users\mukesh\source\repos\v1.0\v1.0\obj\Debug\v1.0.csproj.GenerateResource.cache
+C:\Users\mukesh\source\repos\v1.0\v1.0\obj\Debug\v1.0.csproj.CoreCompileInputs.cache
+C:\Users\mukesh\source\repos\v1.0\v1.0\obj\Debug\v1.0.exe
+C:\Users\mukesh\source\repos\v1.0\v1.0\obj\Debug\v1.0.pdb
